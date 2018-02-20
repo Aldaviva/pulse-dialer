@@ -1,0 +1,26 @@
+{
+    "name": "pulse-dialer",
+    "author": "Ben Hutchison <ben@aldaviva.com>",
+    "version": "0.0.0",
+    "description": "Use pulse dials and other events from a rotary phone to control video conferencing endpoints.",
+    "license": "Apache-2.0",
+    "repository": {
+	"type": "git",
+	"url": "https://github.com/Aldaviva/pulse-dialer"
+    },
+    "dependencies": {
+	"rpio": "0.9.20",
+	"lodash": "3.10.1"
+    },
+    "keywords": [
+	"gpio",
+	"raspberry",
+	"pi",
+	"pulse",
+	"rotary",
+	"phone",
+	"dial",
+	"call"
+    ]
+}
+	
